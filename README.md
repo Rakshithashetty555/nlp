@@ -1,6 +1,6 @@
 # Classifying transcribed speech from interviews or media reports by key topics
 
-# Course: NLP (Semester 6) - Pillai College of Engineering
+ Course: NLP (Semester 6) - Pillai College of Engineering
 # Project Overview
 This project focused on intent classification in chatbot systems using Natural Language Processing (NLP) and deep learning techniques. Various preprocessing methods such as tokenization, stopword removal, and word embeddings were applied to improve text representation. The study explored different machine learning models (Logistic Regression, Random Forest, SVM, Naïve Bayes, KNN) and deep learning architectures (CNN, LSTM, CNN-BiLSTM), comparing their performance across multiple feature extraction techniques like BoW, TF-IDF, and FastText. Transformer-based models BERT and RoBERTa demonstrated superior accuracy and classification performance, significantly outperforming traditional and deep learning methods. The experimental results highlight the effectiveness of advanced NLP models in enhancing chatbot understanding, user interaction, and response accuracy.
 
