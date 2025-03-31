@@ -72,10 +72,11 @@ Pretrained transformer models were also evaluated on transcribed speech data:
 
 BERT: Achieved strong performance with 90% accuracy, 91% precision, and 89% F1-score.
 
+RoBERTa: Performed significantly lower, with an accuracy of 40%.
+![image](https://github.com/user-attachments/assets/c038de89-5433-4a8f-9ac8-05bafa0108e0)
+
 # Conclusion:
 Classifying transcribed speech using NLP enhances journalism by automating topic identification and improving content organization. While ML models offer efficiency, deep learning and transformer-based models like BERT and GPT provide superior accuracy and contextual understanding.
 Through comparative analysis, language models emerge as the best choice for media applications due to their adaptability. Future improvements can focus on real-time processing, multimodal integration, and domain-specific fine-tuning to further enhance classification accuracy and efficiency, ultimately streamlining media workflows and decision-making.
 
 
-RoBERTa: Performed significantly lower, with an accuracy of 40%.
-![image](https://github.com/user-attachments/assets/c038de89-5433-4a8f-9ac8-05bafa0108e0)
